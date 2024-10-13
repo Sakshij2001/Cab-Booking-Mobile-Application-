@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347029493172",
+    "project_id": "mini-cab-b57ec",
+    "storage_bucket": "mini-cab-b57ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347029493172:android:3641a823e2869cfa9d4ee1",
+        "android_client_info": {
+          "package_name": "com.example.minicab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347029493172-sq640rcqkbl0ugf62omb2uob4b6ts6b9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3MG0daBnnAAqS70m7LjMPG_bqO5MAylc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347029493172-sq640rcqkbl0ugf62omb2uob4b6ts6b9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
